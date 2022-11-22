@@ -1,1 +1,1 @@
-# test-helm
+# cluster-template-helm-charts

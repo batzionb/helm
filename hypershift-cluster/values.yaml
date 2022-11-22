@@ -1,0 +1,5 @@
+# Default values for cluster-template-helm-charts.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+ocpVersion: 4.11.9
+replicas: 2
