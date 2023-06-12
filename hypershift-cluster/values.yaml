@@ -3,3 +3,4 @@
 # Declare variables to be passed into your templates.
 ocpVersion: 4.11.9
 replicas: 2
+infraEnv: batzenv1

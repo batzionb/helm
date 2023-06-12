@@ -3,7 +3,17 @@ entries:
   hypershift-cluster:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-11-22T16:15:11.894916322+02:00"
+    created: "2023-06-12T13:35:17.763039595+03:00"
+    description: A Helm chart for Kubernetes
+    digest: b4b99bc2ed5727ae7ba11f30e4ae983e89dc111ece381df8ef4dfa8e7e62e9a3
+    name: hypershift-cluster
+    type: application
+    urls:
+    - https://batzionb.github.io/helm/hypershift-cluster-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-06-12T13:35:17.762862217+03:00"
     description: A Helm chart for Kubernetes
     digest: cad001a36561781e91cd0b1bf79aa3c2ea766997ed0b36409906383910a9133c
     name: hypershift-cluster
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://batzionb.github.io/helm/hypershift-cluster-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-22T16:15:11.894620718+02:00"
+generated: "2023-06-12T13:35:17.762559181+03:00"
